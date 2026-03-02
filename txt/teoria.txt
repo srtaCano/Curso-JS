@@ -1,0 +1,18 @@
+¿Qué es un Lenguaje de programación?
+
+Los lenguajes de programación nos permiten declarar 
+variables, ciclos, funciones y muchas mas características 
+que permiten crear aplicaciones web, móviles, video jegos, a
+utomatizar tareas, etc... Un ejemplo es crear un programa que según 
+la fecha de hoy me de la edad del usuario
+
+¿Qué es JavaScript?
+Es un lenguaje que podemos usar en el navegador para crear 
+interactividad en pagina sweb, agg animaciones, crear apps web, etc... 
+Se le llama JavaScript ya que el lenguaje mas usado se llamaba Java, 
+pero estos son 2 lenguajes DISTINTOS, este se puede usar con HTML y 
+CSS
+
+ECMAScript es el estándar en el que se basa JS, 
+define el lenguaje de JS y se va actualizando y en base en 
+esta se corrigen errores y se agg nuevas características en JS

@@ -1,0 +1,13 @@
+COMANDOS JS
+
+// Para hacer comentarios, el atajo es cntl + }
+
+/*
+
+	Comentario de mas de una linea
+
+*/
+console.log("Se usa para imprimir, siempre punto y coma al final");
+
+
+// input es la entrada de datos, output es la salida de datos
