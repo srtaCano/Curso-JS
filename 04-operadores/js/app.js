@@ -125,3 +125,34 @@ console.log(mensaje); // "Eres muy joven"
 // (Template Strings) o frameworks como React. PEEEROOO...
 // Si la lógica es muy compleja o tiene muchas condiciones, 
 // es mejor usar un if o un switch. El código debe ser legible.
+
+// Tambien puedo usarlo para hacer un id/else if/else
+
+let nombre1 = "Laura",
+nombre2 = "Valentina",
+nombreIngreso = prompt('Ingrese su nombre');
+
+let mensajito =
+    (nombre1===nombreIngreso)
+
+    ? `Bienvenida mi amor hermosa divina preciosaaa`
+
+    :(nombre2===nombreIngreso)
+
+    ?`Holiwiii`
+
+    :'IDENTIIFICATE EN ESTA MONDA AHORA MISMO';
+
+alert(mensajito)
+
+// En el caso del OR con que uno de los 2 valores sea correcto
+// voy a retornar la expresion pq es valido
+
+mensajito =
+    (nombre1===nombreIngreso || nombre2===nombreIngreso)
+
+    ? `Bienvenidaaaaa`
+
+    :'IDENTIIFICATE EN ESTA MONDA AHORA MISMO';
+
+alert(mensajito)
